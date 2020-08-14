@@ -1,4 +1,7 @@
 import React from 'react';
+
+import { CounterContext } from "./context/counter-context";
+
 import logo from './logo.svg';
 import './App.css';
 
